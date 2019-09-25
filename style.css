@@ -32,6 +32,7 @@ nav{
 section{
     background: #ebebeb;
     width:495px;
+    height: 255px;
     float:left;
     margin-bottom:10px;
 }
@@ -39,9 +40,14 @@ section{
 article{
     background: #777;
     color:#ebebeb;
+    margin:10px;
+    height:170px;
     
 }
-
+#article-header{
+    color: #777;
+    width:50px;
+}
 p{
     background: #ebebeb;
     color: #777;
@@ -52,7 +58,7 @@ aside{
     background: #ebebeb;
     float:right;
     width: 45%;
-    height: 200px;
+    height: 255px;
     padding: 30px;
     margin-left: 30px;
     
